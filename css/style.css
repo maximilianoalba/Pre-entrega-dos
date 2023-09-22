@@ -1,0 +1,25 @@
+body{
+    font-family: 'Croissant One', cursive;
+    background-image: url(../assets/img/paginaprincipal.jpg);
+    background-size: cover;
+    
+   
+
+
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nav-item{
+    color:blue;
+}
+.main_contenedor{
+    padding: 15%;
+}
+
+img{
+
+}
