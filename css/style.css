@@ -1,18 +1,25 @@
 body{
     font-family: 'Croissant One', cursive;
-    background-color: rgb(20, 20, 20);
-    background-image: url(../assets/img/);
+    background-image: url(../assets/img/paginaprincipal.jpg);
+    background-size: cover;
+    
+   
+
+
 }
 
 li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nav-item{
+    color:blue;
 }
 .main_contenedor{
     padding: 15%;
 }
 
 img{
-    border-radius:50%;
-    box-shadow: 0px 0px 15px 15px rgb(111, 116, 167);
-    -webkit-box-shadow: 0px 0px 15px 15px rgb(111, 116, 167);
+
 }
