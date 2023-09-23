@@ -1,25 +1,16 @@
-body{
-    font-family: 'Croissant One', cursive;
-    background-image: url(../assets/img/paginaprincipal.jpg);
-    background-size: cover;
-    filter: opacity(1);
-   
-
-
+body {
+  font-family: "Croissant One", cursive;
+  background-image: url(../assets/img/paginaprincipal.jpg);
+  background-size: cover;
+  filter: opacity(1);
 }
 
-li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.nav-item{
-    color:blue;
-}
-.main_contenedor{
-    padding: 15%;
+.main_contenedor {
+  padding: 15%;
 }
 
-img{
 
-}
