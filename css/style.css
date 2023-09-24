@@ -1,25 +1,29 @@
-body{
-    font-family: 'Croissant One', cursive;
-    background-image: url(../assets/img/paginaprincipal.jpg);
-    background-size: cover;
-    
-   
-
-
+body {
+  font-family: "Croissant One", cursive;
+  background-image: url(../assets/img/paginaprincipal.jpg);
+  background-size: cover;
+  filter: opacity(5);
+}
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+.main_contenedor {
+  padding: 17%;
 }
-
-.nav-item{
-    color:blue;
+h1{
+  color: rgb(79, 127, 231);
 }
-.main_contenedor{
-    padding: 15%;
+.lead{
+  color: rgb(79, 127, 231);
 }
-
-img{
-
+.col-lg-6{
+  box-shadow: 0px 0px 15px 15px ;
+  background: radial-gradient(rgb(233, 233, 233)) ;
+}
+i::before{
+  width: 25px;
+  height: 15px ;
+  font-size: 25px;
+  color: rgb(160, 159, 238);
 }
